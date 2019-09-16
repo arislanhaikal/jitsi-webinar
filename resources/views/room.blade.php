@@ -3,7 +3,7 @@
         <meta charset="utf-8">
         <meta http-equiv="content-type" content="text/html;charset=utf-8">
         <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-        <script src="https:/webinar.aqi.co.id/external_api.js"></script>
+        <script src="https://webinar.aqi.co.id/external_api.js"></script>
         <title>{{ $room->class }}</title>
         <script>
             $( document ).ready(function() {
